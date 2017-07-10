@@ -1,5 +1,6 @@
 package main
 
+/*
 //CommandID is a type of commands. Wrappes int.
 type CommandID int
 
@@ -108,3 +109,4 @@ func (c commandContrlLink) String() string {
 		return "unknown"
 	}
 }
+*/
